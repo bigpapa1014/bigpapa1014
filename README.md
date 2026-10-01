@@ -8,7 +8,7 @@
 
 ---
 
-## 🛠️️ 2. HABILITATS I EINES TÈCNIQUES
+## 🛠 2. HABILITATS I EINES TÈCNIQUES
 
 * 💻 **Sistemes operatius:** 
   ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows&logoColor=white)
@@ -22,7 +22,9 @@
   ![Bash](https://img.shields.io/badge/GNU_Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
   Terminal
 
-* 🧰 **Entorns i eines:** 
+* 🧰 **Entorns, llenguatges i eines:** 
+  ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
   ![Obsidian](https://img.shields.io/badge/Obsidian-483699?style=flat-square&logo=obsidian&logoColor=white)
   ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
   ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
